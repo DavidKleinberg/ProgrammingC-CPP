@@ -1,0 +1,12 @@
+CXXFLAGS = -std=c++11 -Wall -Wextra -pedantic
+
+all: hw7a Trigram TrigramDatabase
+
+hw7a: hw7a.o Trigram.o TrigramDatabase.o
+	$(CXX) -o hw7a hw7a.o Trigram.o TrigramDatabase.o
+
+hw7a.o: hw7a.cpp Trigram.hpp Trigram.cpp TrigramDatabase.hpp TrigramDatabase.cpp
+	$(CXX) $(CXXFLAGS) -c hw7a.cpp Trigram.cpp TrigramDatabase.cpp
+
+clean:
+	rm -f *.o hw7a

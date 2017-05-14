@@ -1,0 +1,4 @@
+TTA 4 10
+GC Not found
+A 1 3 6 9 12 14
+ATTAC 3 9

@@ -1,0 +1,157 @@
+commit fae9f5c1cb55eea142715b55befba8f5cc718eeb
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Wed Mar 8 19:49:45 2017 -0500
+
+    Comments, style, README
+
+commit e16f446e1923e1ad434602cda068a72bc22b16a7
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Wed Mar 8 19:31:00 2017 -0500
+
+    Finished unit tests
+
+commit 18e7ce2a43b78aa6d238329cb147dec51f2622f5
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Mon Mar 6 13:04:57 2017 -0500
+
+    fixed pairwiseSum
+
+commit 6e7a7ce525a298a6ccffc951bb97a6bc546222e9
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Mon Mar 6 12:32:47 2017 -0500
+
+    in class exercise
+
+commit cd14458e9e634c541c9d179373f80e0ca4210d14
+Merge: 040186c ea5e83a
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Mon Mar 6 12:31:56 2017 -0500
+
+    Merge branch 'master' of https://bitbucket.org/DavidKleinberg/cs120sp17-personal
+
+commit 040186c3c3c8fd1e3d8b759f10a8a6df6157a1f3
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Mon Mar 6 12:25:46 2017 -0500
+
+    Monday week6 excercises
+
+commit ea5e83a71feac348c080494aa8fe853da05d8a3e
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Mon Mar 6 01:30:17 2017 -0500
+
+    Readme
+
+commit ff49fc6e70a54baf8555f9d2e2bbf16a12066bad
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Mon Mar 6 01:14:50 2017 -0500
+
+    More end to end tests
+
+commit a3b65ce4efcff77818f6f100e4e54b5ff308f472
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Mon Mar 6 00:59:44 2017 -0500
+
+    PASSED all tests
+
+commit cabfa8543200e1aa3cbf4fb49e83988b60e5f88d
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Mon Mar 6 00:22:47 2017 -0500
+
+    unit tests, test script, condensed code
+
+commit 30daa4d96f13e15485023b1283c8cf1de475583c
+Merge: efdc346 be20db2
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Sun Mar 5 19:30:36 2017 -0500
+
+    Merge branch 'master' of https://bitbucket.org/DavidKleinberg/cs120sp17-personal
+
+commit efdc3460f358253ac54dd4452b16f6d2f86a2ae4
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Sun Mar 5 19:29:39 2017 -0500
+
+    Retrieved Sara's samples from public repo
+
+commit be20db2be7458944e40737cb2097ae62fb6d8e1d
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Sun Mar 5 19:14:06 2017 -0500
+
+    Pattern search working
+
+commit 3ada654038e2e528dd3cc2b6e6ce29a2235e186f
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Sun Mar 5 17:44:59 2017 -0500
+
+    Saving progress
+
+commit faa677c5b1ee40339568d529b7b2e0a1bc889678
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Sun Mar 5 14:24:42 2017 -0500
+
+    Makefile
+
+commit cc805e80a11c365438c60b6eb2ef12067e573d06
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Sun Mar 5 13:59:43 2017 -0500
+
+    Starting HW4
+
+commit 1e3193c3ee904b07f31b9d37701e97c79dd33202
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Fri Mar 3 12:02:52 2017 -0500
+
+    Homework 3
+
+commit b04792c963372158b3b525de05f998ab84e6068c
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Sun Feb 19 19:38:12 2017 -0500
+
+    removed
+
+commit c094b43ae0c1bfe97d15c72263af4b262823a57d
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Sun Feb 19 19:37:02 2017 -0500
+
+    02-19-2017
+
+commit bdf9738960cefb4198ad3fe89cd10829a723ef65
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Sat Feb 18 17:02:52 2017 -0500
+
+    02-18-2017
+
+commit be585fd7e5f01eba0118f223bc13343f594168ff
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Tue Feb 14 00:08:05 2017 -0500
+
+    compressed homework
+
+commit aed42c149a68ed8575b4e60b9c3d25d89d1793a8
+Author: David Kleinberg <davidkleinberg@jhu.edu>
+Date:   Mon Feb 13 23:41:42 2017 -0500
+
+    Homework 1
+
+commit 8576850835cea28b8337fb05f9cb2ecb916be7b7
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Mon Feb 13 22:51:18 2017 -0500
+
+    weeks 1, 2, 3
+
+commit 0a01aebad7027afbb00e1a99b9872da657671027
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Fri Feb 3 13:13:32 2017 -0500
+
+    README Updated
+
+commit a6fd5d9f4e8c16b46082c8102c2d9886503a9de7
+Author: DavidKleinberg <davidkleinberg@jhu.edu>
+Date:   Fri Feb 3 13:09:51 2017 -0500
+
+    README modified
+
+commit 4111e62e8d7ffc61a0451cf7f34a1eb2c6d3075b
+Author: David <davidkleinberg@jhu.edu>
+Date:   Fri Feb 3 18:01:25 2017 +0000
+
+    README.md created online with Bitbucket

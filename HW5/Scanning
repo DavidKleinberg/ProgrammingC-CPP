@@ -1,0 +1,59 @@
+For those that are still having an issue with reading in from the catalog, the scanf family of functions have some helpful modifiers to read in more specific cases.
+ 
+* can be used to ignore input of a specified type.
+For example if:
+char name[10];
+scanf("%d %*c %s", &x, name);
+printf("%d %s", x, name);
+ 
+is given input:
+5yBob
+ 
+It will output:
+5 Bob
+ 
+ 
+A number can be used to specify the number of a certain type to receive. For example:
+ 
+char name [6];
+scanf("%6c", name);
+printf("%s", name);
+ 
+When given the input:
+John Smith
+ 
+Will output:
+John S
+ 
+A character can be specified to signal scanf to stop reading by using the syntax [^(character)] following the % modifier. For example:
+ 
+char name [10];
+scanf("%[^,]", name);
+printf("%s", name);
+ 
+When given the input:
+Smith, John
+ 
+Will output:
+Smith
+ 
+These different modifiers can be combined into a variety of combinations to fine tune what scanf is inputting into variables. For example:
+char name [15];
+scanf("%15[^.]c", name);
+printf("%s", name);
+ 
+When given the input:
+Smith, John Dr.
+ 
+Will output:
+Smith, John Dr
+ 
+And when given input:
+Button, Benjamin Mr.
+ 
+Will output:
+Button, Benjami
+ 
+ 
+Hope this helps!
+ 

@@ -1,0 +1,30 @@
+Course database
+---------------
+1. Display catalog
+2. Display course info
+3. Update course title
+4. Update course credits
+5. Add course to transcript
+6. Remove course from student transcript
+7. Display student transcript
+8. Display course transcript info
+9. Compute transcript GPA
+q. Quit
+
+Enter your choice:
+Enter a course:
+EN.600.107 3.0 Intro. Programming in Java
+Course database
+---------------
+1. Display catalog
+2. Display course info
+3. Update course title
+4. Update course credits
+5. Add course to transcript
+6. Remove course from student transcript
+7. Display student transcript
+8. Display course transcript info
+9. Compute transcript GPA
+q. Quit
+
+Enter your choice:

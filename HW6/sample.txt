@@ -1,0 +1,281 @@
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: S
+Error: Unknown command
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: s
+Swapping color channels...
+Error: there is no current image
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: w newfile.ppm
+Writing to newfile.ppm...
+Error: there is no current image
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: c 10 20 600 400
+Cropping region from (10, 20) to (600, 400)...
+Error: there is no current image
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: R space.ppm
+Error: Unknown command
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: Error: Unknown command
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: r space.ppm
+Reading from space.ppm...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: g
+Converting to grayscale...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: w space-gray.ppm
+Writing to space-gray.ppm...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: r space.ppm
+Reading from space.ppm...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: b -2
+Adjusting brightness by -2.000000...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: w space-bright-neg2.ppm
+Writing to space-bright-neg2.ppm...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: r
+space.ppm
+Reading from space.ppm...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: b      1.5
+Adjusting brightness by 1.500000...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: i
+Inverting intensity...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: w space-bright-1.5-then-invert.ppm
+Writing to space-bright-1.5-then-invert.ppm...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: r space.ppm
+Reading from space.ppm...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: c 175 75 600 999
+Cropping region from (175, 75) to (600, 999)...
+Error: cropping failed, image unchanged
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: c 175 75 60 575
+Cropping region from (175, 75) to (60, 575)...
+Error: cropping failed, image unchanged
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: w space-unchanged.ppm
+Writing to space-unchanged.ppm...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: c 175 75 600 575
+Cropping region from (175, 75) to (600, 575)...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: s
+Swapping color channels...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: w space-crop-then-swap.ppm
+Writing to space-crop-then-swap.ppm...
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: Q
+Error: Unknown command
+Main menu:
+	r <filename> - read image from <filename>
+	w <filename> - write image to <filename>
+	c <x1> <y1> <x2> <y2> - crop image to the box with the given corners
+	i - invert intensities
+	s - swap color channels
+	g - convert to grayscale
+	b <amt> - change brightness (up or down) by the given amount
+	q - quit
+Enter choice: q
+Goodbye!
+
