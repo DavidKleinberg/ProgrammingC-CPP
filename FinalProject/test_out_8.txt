@@ -1,0 +1,7 @@
+1. Start a new game
+2. Load a saved game
+White turn 1:
+Black turn 1:
+White turn 2:
+Black wins on turn 3
+Game over. Goodbye!

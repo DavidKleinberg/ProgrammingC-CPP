@@ -1,0 +1,30 @@
+2
+testPrompts.txt
+unparseable
+a2 a9
+a3 a4
+a7 a6
+g2 g5
+g2 h3
+g2 h2
+g2 h1
+g2 g1
+g2 f1
+g2 f2
+g2 f3
+h1 h4
+h1 g1
+h1 g2
+g1 g3
+g1 h3
+c1 d1
+c1 a3
+c1 f4
+e1 e2
+e1 f1
+h3 h4
+g5 f3
+d1 d2
+e1 e2
+e1 d2
+q

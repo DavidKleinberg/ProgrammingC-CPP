@@ -1,0 +1,4 @@
+2
+almostCheckmate.txt
+a6 a8
+q

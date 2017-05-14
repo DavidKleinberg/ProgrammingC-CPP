@@ -1,0 +1,5 @@
+1
+a2 a4
+a7 a5
+board
+q
